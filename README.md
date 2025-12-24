@@ -8,20 +8,20 @@
 
 </div>
 
-## 👋 Jambo / Hello
+## Jambo / Hello
 
 **Full-Stack Engineer • Systems Thinker • English-Swahili Linguist**
 
 I build systems that reduce complexity, not add to it. With **6+ years** in infrastructure and support, I know what breaks in production and how to prevent it. I'm comfortable across React, Next.js, TypeScript, Node.js, Python, and PostgreSQL.
 
-### 🎯 What I Do
+### What I Do
 
-- 🚀 **Full-Stack Development**: Shipped production backends in JavaScript and Python, built web scrapers, CLI automation tools, and data processing pipelines
-- 🌍 **Localization**: Expert English-Swahili translation with 70%+ accuracy across 50+ global projects
-- 🏗️ **Infrastructure**: Built 10+ computer labs across East Africa, managed 500+ device estates with 99.8% uptime
-- 💡 **Product Thinking**: I think in terms of constraints—bandwidth, compliance, user context. Not just features.
+- **Full-Stack Development**: Shipped production backends in JavaScript and Python, built web scrapers, CLI automation tools, and data processing pipelines
+- **Localization**: Expert English-Swahili translation with 70%+ accuracy across 50+ global projects
+- **Infrastructure**: Built 10+ computer labs across East Africa, managed 500+ device estates with 99.8% uptime
+- **Product Thinking**: I think in terms of constraints—bandwidth, compliance, user context. Not just features.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -43,7 +43,7 @@ I build systems that reduce complexity, not add to it. With **6+ years** in infr
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -53,7 +53,7 @@ I build systems that reduce complexity, not add to it. With **6+ years** in infr
 
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Professional Writing Service](https://writing-service.vercel.app/)
 Full-stack SaaS platform for professional document editing. Real-time order tracking, payment processing, client portals.
@@ -75,7 +75,7 @@ Collection of freelance projects: web scrapers, CLI tools, Django APIs, data pro
 - Served 10+ clients with 98% accuracy
 - **Stack**: Python, Django, Flask, Web Scraping
 
-## 💼 Professional Experience
+## Professional Experience
 
 **English-Swahili Linguist & Web Developer** @ Jambo Linguists _(Jan 2023 - Present)_
 - Delivered 50+ translation projects with 70%+ certified accuracy
@@ -97,7 +97,7 @@ Collection of freelance projects: web scrapers, CLI tools, Django APIs, data pro
 - Managed 500-device estate with 99.8% uptime
 - Reduced onboarding from 8 hours to 3 hours per device
 
-## 🌍 Localization & Language
+## Localization & Language
 
 **Native Languages**: English, Swahili  
 **Specializations**: Technical documentation, legal translation, software localization  
@@ -107,13 +107,13 @@ Collection of freelance projects: web scrapers, CLI tools, Django APIs, data pro
 
 <div align="center">
   
-### 💬 Tuongee. Let's Build.
+### Tuongee. Let's Build.
 
 Available for engineering roles where technical judgment and cultural nuance matter.
 
-📍 **Location**: Nairobi, Kenya  
-📧 **Email**: makhembu.brian@gmail.com  
-🌐 **Portfolio**: [brianmakhembu-portfolio.vercel.app](https://brianmakhembu-portfolio.vercel.app/)
+**Location**: Nairobi, Kenya  
+**Email**: makhembu.brian@gmail.com  
+**Portfolio**: [brianmakhembu-portfolio.vercel.app](https://brianmakhembu-portfolio.vercel.app/)
 
 **"I build systems that reduce complexity, not add to it."**
 
