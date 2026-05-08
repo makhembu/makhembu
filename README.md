@@ -16,6 +16,8 @@ Engineer building AI systems, edge infrastructure, and cybersecurity tooling at 
 
 **How they connect:** iris collects IOCs → sentry applies detection rules → phishkit analyzes phishing URLs → packetwatch monitors network baselines → trace correlates everything into incident timelines.
 
+→ [Full ecosystem guide with startup sequence and end-to-end demo](https://github.com/makhembu/iris/blob/master/ECOSYSTEM.md)
+
 ---
 
 ### Other Projects
