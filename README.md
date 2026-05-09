@@ -9,7 +9,7 @@ Based in Kenya.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [mcpub](https://github.com/makhembu/mcpub) | Registry + CLI + security scanner for 1,574 MCP servers. "The npm for AI Tools." | TypeScript, Cloudflare Workers, pnpm monorepo |
+| [mcpub](https://github.com/makhembu/mcpub) · [Web](https://mcpub-web.vercel.app) | Registry + CLI + security scanner for 1,574 MCP servers. "The npm for AI Tools." | TypeScript, Cloudflare Workers, pnpm monorepo |
 | [african-stream-api](https://github.com/makhembu/african-stream-api) | Streaming API aggregation for African movie/TV platforms — proxy, extraction, Playwright token capture | Cloudflare Workers, Playwright, WASM |
 | [iris](https://github.com/makhembu/iris) | Threat intelligence aggregation & IOC correlation. Ingests OTX/URLhaus/PhishTank, scores confidence, alerts | Hono, better-sqlite3, TypeScript |
 
